@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/e-commerce/static/css/main.a0c56961.css",
+    "main.js": "/e-commerce/static/js/main.43adf284.js",
+    "static/media/wallpaperflare.com_wallpaper (6).jpg": "/e-commerce/static/media/wallpaperflare.com_wallpaper (6).d5c75caed2294533278b.jpg",
+    "static/media/[PXPNG.COM]Ecommerce PNG File - 638x431.png": "/e-commerce/static/media/[PXPNG.COM]Ecommerce PNG File - 638x431.4707ec8754b6129aa94f.png",
+    "index.html": "/e-commerce/index.html",
+    "main.a0c56961.css.map": "/e-commerce/static/css/main.a0c56961.css.map",
+    "main.43adf284.js.map": "/e-commerce/static/js/main.43adf284.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0c56961.css",
+    "static/js/main.43adf284.js"
+  ]
+}
